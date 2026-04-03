@@ -1,1 +1,1 @@
-# finance_dashboard
+# finance-dashboard
